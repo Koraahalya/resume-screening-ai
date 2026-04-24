@@ -1,4 +1,5 @@
 #  Resume Screening AI using NLP
+An AI-powered system that ranks resumes using NLP techniques (TF-IDF and BERT) for automated candidate shortlisting.
 
 ##  Overview
 
