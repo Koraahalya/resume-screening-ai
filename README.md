@@ -3,10 +3,9 @@ An AI-powered system that ranks resumes using NLP techniques (TF-IDF and BERT) f
 
 ##  Overview
 
-This project builds an AI-based Resume Screening system that ranks resumes based on their relevance to a given job description.
+This project implements an AI-based resume screening system that ranks candidates based on their relevance to a given job description.
 
-It uses Natural Language Processing (NLP) techniques to compare resumes with job requirements and automatically shortlist candidates.
-
+It combines keyword-based matching (TF-IDF) and semantic understanding (BERT) to improve accuracy in candidate shortlisting.
 
 ##  Objective
 
