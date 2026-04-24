@@ -115,15 +115,23 @@ Output:
 * Sentence Transformers (BERT)
 * Google Colab
 
+  
+##  Dataset
+
+The dataset used in this project is publicly available on Kaggle:
+
+🔗 https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
+
+Due to file size limitations, the dataset is not included in this repository.
 
 ##  How to Run
 
-1. Open notebook in Google Colab
-2. Upload dataset (zip file)
-3. Run all cells
-4. Enter job description
-5. View ranked results
-
+1. Download the dataset from Kaggle  
+2. Upload the ZIP file in Google Colab  
+3. Open the notebook  
+4. Run all cells  
+5. Enter job description when prompted  
+6. View ranked results  
 
 ##  Key Insight
 
